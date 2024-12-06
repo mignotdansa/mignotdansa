@@ -1,4 +1,4 @@
-Hi there, I'm Mignot 👋
+Hi there, I'm Rex👋
 I am a passionate Blockchain Application Developer with a focus on building decentralized applications (dApps), smart contracts, and blockchain solutions. I am constantly exploring new technologies and frameworks to leverage the power of blockchain for creating innovative and secure applications.
 
 🔧 Technologies & Tools
